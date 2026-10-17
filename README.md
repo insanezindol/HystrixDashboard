@@ -55,6 +55,8 @@
     - 단일 애플리케이션: `http://hystrix-app:port/actuator/hystrix.stream`
     - Turbine 클러스터: `http://turbine-hostname:port/turbine.stream?cluster=[clusterName]`
 
+![dashboard.png](dashboard.png)
+
 ## 설정 정보
 
 -   기본 포트: `9010`
